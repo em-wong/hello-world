@@ -1,5 +1,6 @@
 # hello-world
-just starting out 
+Just starting out
+==================
 
 **Hi I'm Em Wong!**
 
